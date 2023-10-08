@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Nimra from Pakistan<br><br>- 🔭 I’m a freelance technical writer. I've written content in various niches, including machine learning, artificial intelligence, backend engineering, data, networking and no-code tools, and I specialise in API documentation. <br>-👩‍💻 I've ghostwritten content for clients including Memphis.dev, MassDriver.cloud, Tricentis, AI Superior, InfluxDB, MetricFire, & Zilliz, and I'm open for more writing gigs. <br>- ⚡ In my free time I read and make fun stuff with no-code tools</p>
+<p align="left">I'm Nimra from Pakistan<br><br>- 🔭 I’m a freelance technical writer. I've written content in various niches, including machine learning, artificial intelligence, backend engineering, data, networking and no-code tools, and I specialise in documentation. <br>-👩‍💻 I've ghostwritten content for clients including Memphis.dev, MassDriver.cloud, Tricentis, AI Superior, InfluxDB, MetricFire, & Zilliz, and I'm open for more writing gigs. <br>- ⚡ In my free time I read and make fun stuff with no-code tools</p>
 
 ###
 
